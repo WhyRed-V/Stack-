@@ -32,6 +32,3 @@ void display(node *top){
         top=top->next;
     }
 }
-int main(){
-return 0;
-}
